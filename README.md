@@ -1,2 +1,11 @@
-# eitaa-sender
-Eitaa Messenger Spammer Ads Sender, Coded by
+### eitaa-sender ###
+#
+# website : www.manzar.xyz
+#
+# email : getamiralimanzar@gmail.com
+#
+# telegeam : @amiralimanzar
+# 
+# github : @himanzar
+#
+### eitaa-sender ###
